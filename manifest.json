@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Movie Subtitle Finder",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Find the subtitle any film",
   "icons": {
     "16": "logo.png",
